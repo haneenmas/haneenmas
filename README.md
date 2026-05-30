@@ -56,3 +56,27 @@
 ---
 
 ## 📚 Currently Studying @ Technion
+
+| ✅ Computer Networks | ✅ Operating Systems | ✅ Algorithms |
+|---|---|---|
+| ✅ Network Security | ✅ Object-Oriented Prog. | ✅ System Programming |
+| ✅ Computer Architecture | ✅ Compilation Theory | 🔄 Optimization |  
+
+
+---
+
+## 👩‍💻 About Me
+
+- 🎓 **Computer Engineering** student at the **Technion**, graduating 2027
+- 🤖 Passionate about **AI-powered systems**, **Android development**, and **automation**
+- 🌍 Trilingual: **Arabic** (native) · **Hebrew** (fluent) · **English** (fluent)
+- 🧑‍🏫 **Coding mentor** — teaching young girls programming since 2023
+- 📍 Based in **Haifa, Israel**
+
+---
+
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=DC2626&height=80&section=footer" />
+
+</div>
