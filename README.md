@@ -1,10 +1,8 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=DC2626&height=120&section=header&text=Haneen%20Masarwe&fontSize=40&fontColor=ffffff&fontAlignY=65&desc=Computer%20Engineering%20%40%20Technion&descAlignY=85&descColor=ffcccc" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=DC2626&height=160&section=header&text=Haneen%20Masarwe&fontSize=42&fontColor=ffffff&fontAlignY=55&desc=Computer%20Engineering%20%40%20Technion&descSize=18&descAlignY=75&descColor=ffffff" />
 
 </div>
-
----
 
 <div align="center">
 
@@ -15,8 +13,6 @@
 [![Technion](https://img.shields.io/badge/Technion-B.Sc%20Computer%20Engineering-00205B?style=for-the-badge)](https://technion.ac.il)
 
 </div>
-
----
 
 ## 🚀 Featured Project — InterviewPro
 
